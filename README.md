@@ -1,7 +1,7 @@
 # Firebase Codelab: FriendlyChat
 
 This is the source code for the Firebase FriendlyChat codelab. It includes start and end versions of the
-code for Android,. To get started open the codelab instructions:
+code for Android. To get started open the codelab instructions:
 
  - [Firebase Android Codelab](https://codelabs.developers.google.com/codelabs/firebase-android/).
 
